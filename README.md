@@ -1,2 +1,2 @@
 # bookbot
-A bot can read a book and give u only the usefall info
+BookBot is my first project!
